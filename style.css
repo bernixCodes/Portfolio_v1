@@ -711,6 +711,11 @@ footer .copyright {
   nav .container ul li a :hover {
     padding-left: 3rem;
   }
+  .action {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
 
   nav button {
     display: inline-block;
