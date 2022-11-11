@@ -802,8 +802,10 @@ footer .copyright {
 
   section.recent-work .container .projects {
     grid-template-columns: 1fr;
-    width: 100%;
+    width: 94vw;
+    text-align: center;
   }
+
   section.recent-work .container h1 {
     width: 98vw;
     margin: 1.4rem 0 1rem;
