@@ -43,6 +43,7 @@ body {
   color: var(--color-dark);
   max-width: 100vw;
   user-select: none;
+  -webkit-user-select: none;
 }
 
 h1,
@@ -279,8 +280,8 @@ section.landing .profile-area .outer-circle span:nth-child(4) {
 }
 section.landing .profile-area .inner-circle {
   position: absolute;
-  width: 18rem;
-  height: 18rem;
+  width: 20rem;
+  height: 20rem;
   border-radius: 50%;
   overflow: hidden;
 }
@@ -404,7 +405,7 @@ section.skills .item:nth-child(5) .progress-bar .progress {
 }
 
 section.skills .item .progress-bar .progress.mobile {
-  width: 61%;
+  width: 51%;
 }
 
 section.services {
