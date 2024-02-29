@@ -21,12 +21,12 @@ My portfolio site is built using HTML, CSS, and JavaScript. It includes sections
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/portfolio.git
+   git clone https://github.com/bernixCodes/Portfolio_v1.git
    ```
 
 2. Navigate to the project directory:
    ```bash
-   cd portfolio
+   cd Portfolio_v1
    ```
 
 3. Open the `index.html` file in your web browser to view the portfolio.
